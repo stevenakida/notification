@@ -1,0 +1,1 @@
+/Users/leyluj/projects/NotificationSystem/app/views/subscriptions/show.blade.php
